@@ -23,7 +23,7 @@
     ],
     "preferredEditor": "blocksprj",
     "extension": {
-        "namespace": "hello",
+        "namespace": "mlGesture",
         "label": "input",
         "group": "Input model",
         "url": "https://dan4p.github.io/hello-world/",
