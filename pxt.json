@@ -1,5 +1,5 @@
 {
-    "name": "pxt-ml-gestures",
+    "name": "pxt-hello",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -9,13 +9,14 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.1.9",
+        "target": "6.0.25",
         "targetId": "microbit"
     },
     "supportedTargets": [
@@ -23,9 +24,10 @@
     ],
     "preferredEditor": "blocksprj",
     "extension": {
-        "namespace": "mlgestures",
+        "namespace": "hello",
         "label": "input",
         "group": "Input model",
-        "url": "https://dan4p.github.io/ml-gestures/"
+        "url": "https://dan4p.github.io/hello-world/",
+        "localurl": "http://localhost:8000"
     }
 }
