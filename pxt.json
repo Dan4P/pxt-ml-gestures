@@ -26,7 +26,6 @@
         "namespace": "mlgestures",
         "label": "input",
         "group": "Input model",
-        "url": "https://dan4p.github.io/ml-gestures/",
-        "localurl": "http://localhost:8000"
+        "url": "https://dan4p.github.io/ml-gestures/"
     }
 }
