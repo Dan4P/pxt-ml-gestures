@@ -21,5 +21,12 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "blocksprj",
+    "extension": {
+        "namespace": "mlgestures",
+        "label": "input",
+        "group": "Input model",
+        "url": "https://dan4p.github.io/ml-gestures/",
+        "localurl": "http://localhost:8000"
+    }
 }
